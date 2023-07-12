@@ -1,4 +1,4 @@
-# MusicVisualizationPlayer
+# Music Visualization Player
 
 A simple sketch of a music visualization player using processing and the Minim Library.<br/>
 Supports .wav, .mp3, .aiff, .au, .midi, .rmf.
